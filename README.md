@@ -16,7 +16,7 @@
   <samp>
     <a href="https://bento.me/sreedatta"> About Me </a>
     <br>
-    Data Science Intern at Coincent | SIH Internal Hackathon Winner 23' | Graphic Designer | Web developer | Designing Head in GDSC 22 - 23' | Internshala SP 35' | Google Cloud Facilitator 2023
+    Certified Data Analyst | GitHub Campus Expert | Internal SIH 23' Winner | Visual Designer | Data Scientist | Google Cloud Facilitator 23' 
     <br>
     <br>
   </samp>
