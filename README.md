@@ -51,7 +51,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sreedatta.erai@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: sreedatta.vajinapally@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything GenAI, Data Science, Desgining<br/><br/>
 
 </p>
@@ -63,16 +63,16 @@
 ## Use To Code
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=orange) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white&labelColor=orange) <br>
+<code> HTML5 </code> , CSS3 , <code>JavaScript</code>
+
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white&labelColor=orange) <br>
+<code> Python ( Proficient ) - Numpy, Pandas, Matplotlib </code>, R ( Intermediate ), <code> Java ( Beginner ). </code>
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=yellow&labelColor=black ) <br>
-### JupyterNote Book
-![Google Colab](https://img.shields.io/badge/Colab-white?style=for-the-badge&logo=Google%20Colab&logoColor=yellow&labelColor=white)
+<code> MS SQL </code> , MySQL , <code>BigQuery</code>
+### Web IDE platforms
+<code> Google Colab </code> , Juputer Notebook.
+### Application IDE platform
+<code> Pycharm </code> , IntellJ IDE , <code> VS Code Insider </code>
 <br/>
 
 
